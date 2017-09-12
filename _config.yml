@@ -11,6 +11,6 @@ github_username:  destineeb
 repository: Destineeb/destineeb.github.io
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
