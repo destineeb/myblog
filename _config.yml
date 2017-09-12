@@ -7,4 +7,4 @@ theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 permalink: /:about/
-permalink: /:2017-09-12 This Digital Stuff/
+permalink: /:2017-09-12 This Digital Stuff.md/
