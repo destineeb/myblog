@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Blog!
 
-You can use the [editor on GitHub](https://github.com/destineeb/destineeb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About ME
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Destinee and I'm from Los Angeles. I am currently a senior a college (yes I'm almost done!) studying Computer Engineering. I love to travel, dance, and eat. I am a total foodie. This is my blog site where I share tidbits of my life and stories from college because college is where you make the most memorable stories.
 
 ### Markdown
 
@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Blog Posts
 
 ### Jekyll Themes
 
