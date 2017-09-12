@@ -1,6 +1,5 @@
 title: DailyDoseofDee
 description: > # this means to ignore newlines until "baseurl:"
-  I'd like to think I'm interesting so hopefully you will too. Read my blog to find out.
-theme: jekyll-theme-merlot
+  I'd like to think I'm interesting so hopefully you will too.
 plugins:
   - jekyll-feed
