@@ -1,7 +1,8 @@
+---
 layout: post
 title: "This Digital Stuff"
 date: 2017-09-12
-
+---
 
 So as I'm sitting here trying to set up my first blog I can't help but to realize there may be some truth to this whole thoery about how advances in technology are affecting the way people read. It took me literally four hours to set this up when it should have only taken one. Why? Because i was reading the instructions on my laptop while trying to set the blog up also on my laptop. So, I had to keep toggling back and forth between pages and tabs and minimizing and maximizing screens. There were too many distractions on my laptop like all the tabs open and constant notifications from facebook and other running apps. I can't help but think this would have been easier had I just printed out the instructions. 
   In a Scientific American article by Ferris Jabr, the effects of reading on paper vs screens was discussed. It was mentioned how reading comprehension seems to be better when people read on paper. Of course, there were studies to debunk this claim but also some that supported it. In my experience, most notable today when I was reading the blog setup instructions, I had to constantly go back and re-read the same page. Sure I've done that while also reading printed books but not nearly as much. FOUR HOURS. It took four hours! It was like my brain just didn't want to understand what the page was trying to tell me to do. 
